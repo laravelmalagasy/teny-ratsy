@@ -9,8 +9,8 @@ Natao ity repo ity mba hanangonana ireo teny tsy tokony soratana any anaty lahat
 ```json
 [
   {
-    "sentence": "teny",
-    "variants": ["tn", "nt", "..."]
+    "sentence": "teny", // lowercase !
+    "variants": ["tn", "nt", "..."] // lowercase !
   }
 ]
 ```
