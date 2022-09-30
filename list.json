@@ -6,5 +6,21 @@
   {
     "sentences":"mihinan'ny amaniny",
     "variants":["mnmn","maneman","minaneman"]
+  },
+  {
+    "sentences":"kindindrenin'ity",
+    "variants":["kindinrenty","kindindre","Kindin'apondra","voakindindreniny"]
+  },
+  {
+    "sentences":"Lelena",
+    "variants":["Lele","voalelimboay",""]
+  },
+  {
+    "sentences":"Mahasosopory",
+    "variants":["Msspr", "sspr", "sosopory", "pory", "forintsamoina"]
+  },
+  {
+    "sentences":"Lenamboa",
+    "variants":["Lelenamboa", "Lenamboarazana", "Lenamboaraza", "lenboa"]
   }
 ]
