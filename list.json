@@ -1,6 +1,6 @@
 [
   {
-    "sentence": "kdj",
+    "sentences": "kdj",
     "variants": ["knd", "kndj"]
   },
   {
@@ -9,18 +9,18 @@
   },
   {
     "sentences":"kindindrenin'ity",
-    "variants":["kindinrenty","kindindre","Kindin'apondra","voakindindreniny"]
+    "variants":["kindinrenty","kindindre","kindin'apondra","voakindindreniny"]
   },
   {
-    "sentences":"Lelena",
-    "variants":["Lele","voalelimboay",""]
+    "sentences":"lelena",
+    "variants":["lele","voalelimboay",""]
   },
   {
-    "sentences":"Mahasosopory",
-    "variants":["Msspr", "sspr", "sosopory", "pory", "forintsamoina"]
+    "sentences":"mahasosopory",
+    "variants":["msspr", "sspr", "sosopory", "pory", "forintsamoina"]
   },
   {
-    "sentences":"Lenamboa",
-    "variants":["Lelenamboa", "Lenamboarazana", "Lenamboaraza", "lenboa"]
+    "sentences":"lenamboa",
+    "variants":["lelenamboa", "lenamboarazana", "lenamboaraza", "lenboa"]
   }
 ]
