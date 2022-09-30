@@ -2,5 +2,9 @@
   {
     "sentence": "kdj",
     "variants": ["knd", "kndj"]
+  },
+  {
+    "sentence":"tsara ny PHP",
+    "variants":["tsr","pph"]
   }
 ]
