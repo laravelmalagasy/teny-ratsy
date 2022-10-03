@@ -22,5 +22,21 @@
   {
     "sentences":"lenamboa",
     "variants":["lelenamboa", "lenamboarazana", "lenamboaraza", "lenboa"]
-  }
+  },
+    {
+        "sentences": "Hoano ny tay",
+        "variants": ["antay", "ant**"]
+    },
+    {
+        "sentences": "kimasoniny",
+        "variants": ["kms-ty"]
+    },
+    {
+        "sentences": "Vody eeeeee",
+        "variants": ["vod eeeeee", "vd eeeeee"]
+    },
+    {
+        "sentences": "Tabory",
+        "variants": ["tbr", "botary", "btr"]
+    }
 ]
