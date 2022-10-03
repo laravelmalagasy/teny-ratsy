@@ -1,15 +1,11 @@
 [
   {
-    "sentences": "kdj",
-    "variants": ["knd", "kndj"]
-  },
-  {
     "sentences":"mihinan'ny amaniny",
     "variants":["mnmn","maneman","minaneman"]
   },
   {
     "sentences":"kindindrenin'ity",
-    "variants":["kindinrenty","kindindre","kindin'apondra","voakindindreniny"]
+    "variants":["kdj", "knd", "kndj", "kindinrenty","kindindre","kindin'apondra","voakindindreniny"]
   },
   {
     "sentences":"lelena",
@@ -23,20 +19,20 @@
     "sentences":"lenamboa",
     "variants":["lelenamboa", "lenamboarazana", "lenamboaraza", "lenboa"]
   },
-    {
-        "sentences": "Hoano ny tay",
-        "variants": ["antay", "ant**"]
-    },
-    {
-        "sentences": "kimasoniny",
-        "variants": ["kms-ty"]
-    },
-    {
-        "sentences": "Vody eeeeee",
-        "variants": ["vod eeeeee", "vd eeeeee"]
-    },
-    {
-        "sentences": "Tabory",
-        "variants": ["tbr", "botary", "btr"]
-    }
+  {
+    "sentences": "hoano ny tay",
+    "variants": ["antay", "ant**"]
+  },
+  {
+    "sentences": "kimasoniny",
+    "variants": ["kms-ty", "kimasonin-ty", "kimasonin'ty"]
+  },
+  {
+    "sentences": "vody eeeeee",
+    "variants": ["vod eeeeee", "vd eeeeee"]
+  },
+  {
+    "sentences": "tabory",
+    "variants": ["tbr", "botary", "btr"]
+  }
 ]
