@@ -1,38 +1,46 @@
 [
   {
-    "sentences":"mihinan'ny amaniny",
-    "variants":["mnmn","maneman","minaneman"]
-  },
-  {
-    "sentences":"kindindrenin'ity",
-    "variants":["kdj", "knd", "kndj", "kindinrenty","kindindre","kindin'apondra","voakindindreniny"]
-  },
-  {
-    "sentences":"lelena",
-    "variants":["lele","voalelimboay",""]
-  },
-  {
-    "sentences":"mahasosopory",
-    "variants":["msspr", "sspr", "sosopory", "pory", "forintsamoina"]
-  },
-  {
-    "sentences":"lenamboa",
-    "variants":["lelenamboa", "lenamboarazana", "lenamboaraza", "lenboa"]
-  },
-  {
     "sentences": "hoano ny tay",
-    "variants": ["antay", "ant**"]
+    "variants": ["antay"]
+  },
+  {
+    "sentences": "kindindrenin'ity",
+    "variants": [
+      "kdj",
+      "knd",
+      "kndj",
+      "kindinrenty",
+      "kindindre",
+      "kindin'apondra",
+      "voakindindreniny"
+    ]
   },
   {
     "sentences": "kimasoniny",
     "variants": ["kms-ty", "kimasonin-ty", "kimasonin'ty"]
   },
   {
-    "sentences": "vody eeeeee",
-    "variants": ["vod eeeeee", "vd eeeeee"]
+    "sentences": "lelena",
+    "variants": ["lele", "voalelimboay"]
+  },
+  {
+    "sentences": "lenamboa",
+    "variants": ["lelenamboa", "lenamboarazana", "lenamboaraza", "lenboa"]
+  },
+  {
+    "sentences": "mihinan'ny amaniny",
+    "variants": ["mnmn", "maneman", "minaneman"]
+  },
+  {
+    "sentences": "mahasosopory",
+    "variants": ["msspr", "sspr", "sosopory", "pory", "forintsamoina"]
   },
   {
     "sentences": "tabory",
     "variants": ["tbr", "botary", "btr"]
+  },
+  {
+    "sentences": "vody eeeeee",
+    "variants": ["vod eeeeee", "vd eeeeee"]
   }
 ]
