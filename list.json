@@ -42,5 +42,17 @@
   {
     "sentences": "vody eeeeee",
     "variants": ["vod eeeeee", "vd eeeeee"]
+  },
+  {
+    "sentences": "Minonofra",
+    "variants": ["nnfr", "nonofr", "minono fory"]
+  },
+  {
+    "sentences": "kindasoniny",
+    "variants": ["kindy", "kindindreniny"]
+  },
+  {
+    "sentences": "sininjeniny",
+    "variants": ["lelena ty", "kindindreniny"]
   }
 ]
