@@ -12,16 +12,19 @@
       "kindinrenty",
       "kindindre",
       "kindin'apondra",
-      "voakindindreniny"
+      "voakindindreniny",
+      "kindindreniny",
+      "sininjeniny",
+      "kindy"
     ]
   },
   {
     "sentences": "kimasoniny",
-    "variants": ["kms-ty", "kimasonin-ty", "kimasonin'ty"]
+    "variants": ["kms-ty", "kimasonin-ty", "kimasonin'ty", "kindasoniny"]
   },
   {
     "sentences": "lelena",
-    "variants": ["lele", "voalelimboay"]
+    "variants": ["lele", "voalelimboay", "lelena ty"]
   },
   {
     "sentences": "lenamboa",
@@ -44,15 +47,7 @@
     "variants": ["vod eeeeee", "vd eeeeee"]
   },
   {
-    "sentences": "Minonofra",
-    "variants": ["nnfr", "nonofr", "minono fory"]
-  },
-  {
-    "sentences": "kindasoniny",
-    "variants": ["kindy", "kindindreniny"]
-  },
-  {
-    "sentences": "sininjeniny",
-    "variants": ["lelena ty", "kindindreniny"]
+    "sentences": "minono fory",
+    "variants": ["nnfr", "nonofr", "minonofra"]
   }
 ]
