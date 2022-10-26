@@ -1,7 +1,7 @@
 [
   {
     "sentences": "hoano ny tay",
-    "variants": ["antay"]
+    "variants": ["antay", "ntay", "tatay"]
   },
   {
     "sentences": "kindindrenin'ity",
@@ -28,7 +28,7 @@
   },
   {
     "sentences": "lenamboa",
-    "variants": ["lelenamboa", "lenamboarazana", "lenamboaraza", "lenboa"]
+    "variants": ["lnb", "lelenamboa", "lenamboarazana", "lenamboaraza", "lenboa"]
   },
   {
     "sentences": "mihinan'ny amaniny",
