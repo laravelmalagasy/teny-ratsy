@@ -31,12 +31,16 @@
     "variants": ["lelenamboa", "lenamboarazana", "lenamboaraza", "lenboa"]
   },
   {
+    "sentences": "mahasosopory",
+    "variants": ["msspr", "sspr", "sosopory", "pory", "forintsamoina"]
+  },
+  {
     "sentences": "mihinan'ny amaniny",
     "variants": ["mnmn", "maneman", "minaneman"]
   },
   {
-    "sentences": "mahasosopory",
-    "variants": ["msspr", "sspr", "sosopory", "pory", "forintsamoina"]
+    "sentences": "minono fory",
+    "variants": ["nnfr", "nonofr", "minonofra"]
   },
   {
     "sentences": "tabory",
@@ -45,9 +49,5 @@
   {
     "sentences": "vody eeeeee",
     "variants": ["vod eeeeee", "vd eeeeee"]
-  },
-  {
-    "sentences": "minono fory",
-    "variants": ["nnfr", "nonofr", "minonofra"]
   }
 ]
